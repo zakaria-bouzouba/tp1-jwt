@@ -27,7 +27,7 @@ Ce projet est une API d'authentification utilisant **Node.js, Express, MongoDB e
 ┃ ┗ 📜 login_routes.js
 ┣ 📜 index.js
 ┣ 📜 .env
-┣ 📜 package.json
+┗ 📜 package.json
 ```
 
 ---
@@ -134,12 +134,15 @@ Le serveur sera accessible sur **http://localhost:5000**
 Nous avons testé l'API avec **Thunder Client**. Voici des captures d'écran des tests :
 
 ✅ **Test Inscription**
+
 ![Test Inscription](screenshots/signup_test.png)
 
 ✅ **Test Connexion**
+
 ![Test Connexion](screenshots/signin_test.png)
 
 ✅ **MongoDB Compass**
+
 ![MongoDB Compass](screenshots/mongodbcompass.png)
 
 ---
